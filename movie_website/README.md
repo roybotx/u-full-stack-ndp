@@ -1,6 +1,6 @@
 README
 
-Elements in READMEs include, but not limited to: images, screenshots, GIFs, text formatting, etc.
+Elements in README include, but not limited to: images, screenshots, GIFs, text formatting, etc.
 
 
 
